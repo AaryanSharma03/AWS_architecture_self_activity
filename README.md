@@ -1,4 +1,6 @@
 ![Screenshot 2025-01-12 021436](https://github.com/user-attachments/assets/32f1e551-0706-4c8a-b4c2-e444ce65b371) AWS_architecture_self_activity
+![Static Badge](https://img.shields.io/badge/Windows-orange)
+![Static Badge](https://img.shields.io/badge/MicrosoftPowerpoint-purple)
 
 ## Scenario
 You have a web application that accepts requests from the internet. Clients can send requests to query for data. When a request comes in, the web application queries a MySQL database and returns the data to the client.
